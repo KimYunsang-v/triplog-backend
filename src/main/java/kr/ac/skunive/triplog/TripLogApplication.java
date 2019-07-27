@@ -4,10 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TriplogApplication {
+public class TripLogApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(TriplogApplication.class, args);
+        SpringApplication.run(TripLogApplication.class, args);
     }
-
 }
